@@ -343,7 +343,7 @@ importers:
         specifier: 2.1.0
         version: link:../ruby
       '@vercel/static-build':
-        specifier: 2.5.17
+        specifier: 2.5.18
         version: link:../static-build
       chokidar:
         specifier: 3.3.1
